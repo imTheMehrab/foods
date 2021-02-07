@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    font-family:'Oxygen', sans-serif;;
+    background-color: rgb(176, 255, 229);
+}
+.footerbottom{
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(236, 236, 236);
+    height: 50px;
+}
+#error-div{
+    text-align: center;
+    margin-top: 50px;
+    color: #dc3545;
+    font-size: 1rem;
+}
